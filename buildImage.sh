@@ -1,2 +1,2 @@
 # Build Image:
-cd lp_app && docker build -t lp_img .
+cd image && docker build -t lp_img .
