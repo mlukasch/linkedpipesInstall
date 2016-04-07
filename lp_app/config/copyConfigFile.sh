@@ -1,0 +1,1 @@
+cp /config/configuration.properties /volume/repo/etl/deploy/configuration.properties
